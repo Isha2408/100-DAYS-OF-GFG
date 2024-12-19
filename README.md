@@ -2,4 +2,4 @@
 <h3>I will be posting my daily progress in this repository</h3>
 
 ## Current Progress : 
-<h1>1/100</h1>
+<h1>2/100</h1>
